@@ -1,0 +1,7 @@
+<path>
+			<tool_exe_path>D:\LoadCode\AndroidTool_Release_v2.65\AndroidTool.exe</tool_exe_path>
+			<firmware_path>D:\LoadCode\update.img</firmware_path>
+			<exe_path>D:\LoadCode\AvbKeyWriter\AvbKeyWriter.exe</exe_path>
+			<at_perm_path>D:\LoadCode\atx_permanent_attributes.bin</at_perm_path>
+			<at_rsa_perm_path>D:\LoadCode\permanent_attributes_cer.bin</at_rsa_perm_path>
+			</path>
