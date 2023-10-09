@@ -1,0 +1,2 @@
+# LoadCode
+通过mfc作ui，mfc调用python的exe，python调用两个监控的程序，python通过识别屏幕内容，自动选择监控程序上的控件
